@@ -6,9 +6,8 @@ public class Main : MonoBehaviour
     private Connection _connection;
     void Awake()
     {
-        _connection = new
-Connection("https://bigscreens.herokuapp.com/socket.io/", "Balls",
-"game");
+        _connection = new Connection("https://bigscreens.herokuapp.com/socket.io/", "Balls", "game");
+        //_connection = new Connection("http://10.18.15.82:8000/", "Balls", "game");
         _connection.OnConnect(() =>
         {
             Debug.Log("CONNECTED");
@@ -29,7 +28,7 @@ Connection("https://bigscreens.herokuapp.com/socket.io/", "Balls",
         {
             Debug.LogError(err);
         });
-        _connection.On("create-ball", (id) =>
+        _connection.On("create-fire-texts", (id) =>
         {
             Debug.Log($"CREATING BALL FOR {id}");
             var ball = GameObject.CreatePrimitive(PrimitiveType.Sphere);
