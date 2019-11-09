@@ -27,7 +27,7 @@ public class Countdown : MonoBehaviour
         if (timeLeft <-1)
         {
             countdown.text = ("");
-            instructions.text = ("find your group and then get a lantern from us.");
+            instructions.text = ("find your group and then stand by a waterbottle.");
         }
 
     }
