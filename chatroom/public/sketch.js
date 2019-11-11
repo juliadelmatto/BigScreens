@@ -86,8 +86,6 @@ connection.onOtherDisconnect((id, type) => {
     console.log(`OTHER DISCONNECTED: ${id}, ${type}`);
 });
 
-// connection.send('text', this.value());
-
 ////////////////////////////////////////
 // UI
 ////////////////////////////////////////

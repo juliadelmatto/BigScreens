@@ -65,7 +65,7 @@ function joinRoom(socket) {
   for (let r in rooms) {
     let room = rooms[r];
     if (room.isPrivate) {
-      if (room.length =< NUM_PARTNERS) {
+      if (room.length <= NUM_PARTNERS) {
         addSocketToRoom(socket, r);
         return;
       }
