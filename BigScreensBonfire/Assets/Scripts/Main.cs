@@ -37,6 +37,19 @@ public class Main : MonoBehaviour
 ().AddForce(Random.insideUnitCircle * 10000);
             ball.AddComponent<SphereCollider>();
         });
+
+
         _connection.Open();
-    }
+
+
+        _connection.On("create-text", (id) =>
+        {
+            Debug.Log("creating text");
+           
+        });
+        _connection.Open();
+    
+}
+
+
 }
