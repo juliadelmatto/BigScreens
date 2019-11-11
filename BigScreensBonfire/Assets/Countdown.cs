@@ -8,6 +8,8 @@ public class Countdown : MonoBehaviour
     public int timeLeft = 60; //Seconds Overall
     public Text countdown; //UI Text Object
     public Text instructions;
+    private bool showinstru = false;
+    private bool changetext = false;
 
     void Start()
     {
@@ -27,8 +29,34 @@ public class Countdown : MonoBehaviour
         if (timeLeft <-1)
         {
             countdown.text = ("");
-            instructions.text = ("find your group and then stand by a waterbottle.");
+            instructions.text = ("");
         }
+
+
+        //show instructions text
+        if (Input.GetKeyDown(KeyCode.Z))
+        {
+            showinstru = true;
+        }
+        if (showinstru == true)
+        {
+            instructions.text = ("after gathering your group, stand by a waterbottle. Everyone should send the code at the same time.");
+        }
+
+
+        //change instructionstext
+        if (Input.GetKeyDown(KeyCode.X))
+        {
+            changetext = true;
+            
+        }
+
+        if (changetext == true)
+        {
+            instructions.text = ("Choose your favorite question, discuss, and send in your favorite response from your group.");
+        }
+
+
 
     }
     //Simple Coroutine
