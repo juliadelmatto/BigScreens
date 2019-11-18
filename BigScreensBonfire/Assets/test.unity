@@ -314,8 +314,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -170, y: 143}
-  m_SizeDelta: {x: 1311.4, y: 462.9}
+  m_AnchoredPosition: {x: 441, y: 49}
+  m_SizeDelta: {x: 2513, y: 463}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &241893688
 MonoBehaviour:
@@ -348,7 +348,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Connect to NYU wifi, then go to 10.18.15.82:8000, get ready to refresh
+  m_Text: 'Connect to IAC wifi, then go to 10.18.15.82:8000, get ready to refresh
     the page!
 
 '
@@ -450,7 +450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89232eae6278a468fbaf1b335c07b03d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLeft: 90
+  timeLeft: 180
   countdown: {fileID: 242960399}
   instructions: {fileID: 241893688}
 --- !u!1 &331065386
@@ -673,7 +673,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 808365007}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 41.3, y: -0.4, z: 0}
+  m_LocalPosition: {x: 18.5, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -935,7 +935,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1256797923}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 16.1, y: -0.4, z: 0}
+  m_LocalPosition: {x: 42.9, y: -0.8, z: 0}
   m_LocalScale: {x: 2.484, y: 2.484, z: 2.484}
   m_Children: []
   m_Father: {fileID: 0}
