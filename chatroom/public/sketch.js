@@ -35,8 +35,8 @@ function setup() {
       catch{
         p = createP(txt).id(id);
         p.addClass('fade');
-        console.log("SENDING CREATE BALL");
-        connection.send("create-fire-texts");
+        console.log("SENDING TEXTS ON THE BIG SCREENS");
+        connection.send("create-fire-texts", input.value);
       }
   });
 
