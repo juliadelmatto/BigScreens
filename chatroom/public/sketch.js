@@ -27,7 +27,6 @@ function setup() {
 
     // Listen for changes to input field
     input = select("#input");
-    input.input(inputChanged);
 
     // Listen for texts from partners
     connection.on("text", function(sender, message) {
@@ -44,8 +43,6 @@ function setup() {
             p = createP(txt).id(id);
             p.addClass("fade");
         }
-        console.log("SENDING CREATE BALL");
-        connection.send("create-fire-texts");
     });
 
     // Remove disconnected users
@@ -55,14 +52,10 @@ function setup() {
     });
 }
 
-// Send user input as they type it.
-function inputChanged() {
-    connection.send("create-text", this.value());
-}
-
 // Listen for line breaks to clear input field
 function keyPressed() {
     if (keyCode == ENTER) {
+        connection.send("create-text", input.value());
         input.value("");
     }
 }

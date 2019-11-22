@@ -1,12 +1,25 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class Main : MonoBehaviour
 {
     private Connection _connection;
+    public int numRooms = 10;
+    private List<List<string>> _rooms;
 
+    private Queue<string> _texts = new Queue<string>();
+    
     void Awake()
     {
+        _rooms = new List<List<string>>();
+        for (var i = 0; i < numRooms; i++)
+        {
+            _rooms.Add(new List<string>());
+        }
+        
         _connection = new Connection("https://bigscreens.herokuapp.com/socket.io/", "Bonfire", "game");
         //_connection = new Connection("http://10.18.15.82:8000/", "Balls", "game");
 
@@ -28,15 +41,6 @@ public class Main : MonoBehaviour
         });
 
         _connection.OnError((err) => { Debug.LogError(err); });
-        _connection.On("create-fire-texts", (id) =>
-        {
-            Debug.Log($"CREATING BALL FOR {id}");
-            var ball = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-            ball.transform.localScale = new Vector3(50, 50, 50);
-            ball.AddComponent<Rigidbody>
-                ().AddForce(Random.insideUnitCircle * 10000);
-            ball.AddComponent<SphereCollider>();
-        });
 
         _connection.Open();
 
@@ -44,6 +48,7 @@ public class Main : MonoBehaviour
         _connection.On("create-text", (string sender, string text) =>
         {
             Debug.Log("creating text");
+            _texts.Enqueue(text);
             var roomIndex = GetRoomForClient(sender);
             if (roomIndex == -1)
             {
@@ -54,18 +59,12 @@ public class Main : MonoBehaviour
                 Debug.Log($"Sending text to room {roomIndex}: {text}");
                 _rooms[roomIndex].ForEach(playerInRoom =>
                 {
-                    if (playerInRoom != sender)
-                    {
-                        _connection.SendTo("text", playerInRoom, text);
-                    }
+                    _connection.SendTo("text", playerInRoom, text);
                 });
             }
         });
         _connection.Open();
     }
-
-    const int NUM_PARTNERS = 4;
-    private readonly List<List<string>> _rooms = new List<List<string>>();
 
     // Returns the index of the room the client is in or -1 if not found 
     private int GetRoomForClient(string id)
@@ -81,23 +80,28 @@ public class Main : MonoBehaviour
         return -1;
     }
 
-    private void ClientConnected(string id)
+    private int GetLeastPopulatedRoomIndex()
     {
-        // join the first room 
+        var leastPopulation = Int32.MaxValue;
+        var leastIndex = -1;
         for (var i = 0; i < _rooms.Count; i++)
         {
             var room = _rooms[i];
-            if (room.Count < NUM_PARTNERS)
+            if (room.Count < leastPopulation)
             {
-                room.Add(id);
-                Debug.Log($"Added player {id} to room {i}");
-                return;
-            }
+                leastPopulation = room.Count;
+                leastIndex = i;
+            } 
         }
-
-        // if one wasn't found create a new room with the new player in it
-        _rooms.Add(new List<string> {id});
-        Debug.Log($"Added player {id} to room {_rooms.Count - 1}");
+        return leastIndex;
+    }
+    
+    private void ClientConnected(string id)
+    {
+        var roomIndex = GetLeastPopulatedRoomIndex();
+        var room = _rooms[roomIndex];
+        room.Add(id);
+        Debug.Log($"Added player {id} to room {roomIndex}");
     }
 
     private void ClientDisconnected(string id)
@@ -112,16 +116,12 @@ public class Main : MonoBehaviour
                 {
                     room.RemoveAt(i);
                     var playersLeftInRoom = room.Count;
-                    // If there are noo players left in the room delete the room
-                    if (playersLeftInRoom == 0)
-                    {
-                        _rooms.RemoveAt(roomIndex);
-                    }
-                    // Otherwise let everyone else in the room know you left
-                    else
+                    // Let everyone else in the room know you left
+                    if (playersLeftInRoom > 0)
                     {
                         _rooms[roomIndex].ForEach(playerInRoom => { _connection.SendTo("leave room", playerInRoom); });
                     }
+
                     return;
                 }
             }
@@ -131,4 +131,14 @@ public class Main : MonoBehaviour
             Debug.LogError($"Client {id} disconnected but could not find them in a room");
         }
     }
+
+    void Update()
+    {
+        while (_texts.Count > 0)
+        {
+            var text = _texts.Dequeue();
+            Debug.Log(text);
+        }
+    }
+    
 }
