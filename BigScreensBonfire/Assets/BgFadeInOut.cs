@@ -7,9 +7,12 @@ public class BgFadeInOut : MonoBehaviour
     public Image bgimage1;
     public Image bgimage2;
     public Image bgimage3;
+    public Image main;
 
     private bool fade1 = false;
     private bool fade2 = false;
+    private bool fademain = false;
+
     void Start()
     {
         bgimage1 = GetComponent<Image>();
@@ -45,6 +48,20 @@ public class BgFadeInOut : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Y))
         {
             fade2 = true;
+        }
+
+
+
+        if (fademain)
+        {
+            Color c3 = main.color;
+            c3.a -= 0.01f;
+
+            main.color = c3;
+        }
+        if (Input.GetKeyDown(KeyCode.U))
+        {
+            fademain = true;
         }
     }
 }
