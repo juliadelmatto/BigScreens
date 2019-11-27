@@ -3,9 +3,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
+using UnityEngine.UI;
 
 public class Main : MonoBehaviour
 {
+    public Text input;
     private Connection _connection;
     public int numRooms = 10;
     private List<List<string>> _rooms;
@@ -134,10 +136,13 @@ public class Main : MonoBehaviour
 
     void Update()
     {
+
         while (_texts.Count > 0)
         {
             var text = _texts.Dequeue();
             Debug.Log(text);
+            //text = "sdf";
+            input.text = text;
         }
     }
     
