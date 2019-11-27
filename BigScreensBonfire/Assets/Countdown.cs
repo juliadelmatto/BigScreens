@@ -40,7 +40,7 @@ public class Countdown : MonoBehaviour
         }
         if (showinstru == true)
         {
-            instructions.text = ("after gathering your group, stand by a waterbottle. Everyone should send the code on the waterbottle within 30sec.");
+            instructions.text = ("After gathering your group, stand by a waterbottle and send the code at the same time. Then, follow the prompts on your phone");
         }
 
 
@@ -53,7 +53,7 @@ public class Countdown : MonoBehaviour
 
         if (changetext == true)
         {
-            instructions.text = ("Discuss the questions, everyone send your favorite answers from the group ");
+            instructions.text = ("Discuss the questions, and send your own favorite answers from the group to make your flower grow stronger");
         }
 
 
