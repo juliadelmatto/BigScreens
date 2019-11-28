@@ -8,9 +8,11 @@ public class Countdown : MonoBehaviour
     public int timeLeft = 60; //Seconds Overall
     public Text countdown; //UI Text Object
     public Text instructions;
+    public Text instructions2;
     private bool showinstru = false;
     private bool changetext = false;
 
+    public Text title;
     void Start()
     {
         StartCoroutine("LoseTime");
@@ -40,7 +42,9 @@ public class Countdown : MonoBehaviour
         }
         if (showinstru == true)
         {
-            instructions.text = ("After gathering your group, stand by a waterbottle and send the code at the same time. Then, follow the prompts on your phone");
+            title.text = "";
+            instructions.text = ("After gathering your group, stand by a flower. Take turns answering questions and adding petals");
+            instructions2.text = ("After gathering your group, stand by a flower. Take turns answering questions and adding petals");
         }
 
 
@@ -53,7 +57,9 @@ public class Countdown : MonoBehaviour
 
         if (changetext == true)
         {
-            instructions.text = ("Discuss the questions, and send your own favorite answers from the group to make your flower grow stronger");
+            title.text = ("The End");
+            //instructions.text = ("Discuss the questions, and send your own favorite answers from the group to make your flower grow stronger");
+            //instructions2.text = ("Discuss the questions, and send your own favorite answers from the group to make your flower grow stronger");
         }
 
 
