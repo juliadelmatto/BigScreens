@@ -5945,7 +5945,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89232eae6278a468fbaf1b335c07b03d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLeft: 10
+  timeLeft: 90
   countdown: {fileID: 675626903}
   instructions: {fileID: 1961711787}
   instructions2: {fileID: 757875446}
@@ -17067,7 +17067,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89232eae6278a468fbaf1b335c07b03d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLeft: 10
+  timeLeft: 90
   countdown: {fileID: 1666366060}
   instructions: {fileID: 1961711787}
   instructions2: {fileID: 0}
