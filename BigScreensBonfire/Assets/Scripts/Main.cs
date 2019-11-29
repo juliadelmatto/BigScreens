@@ -3,12 +3,24 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
+using UnityEngine.UI;
 
 public class Main : MonoBehaviour
 {
+    public Text input;
+    public Text input2;
+    public Text input3;
+    public Text input4;
+    public Text input5;
+    public Text input6;
+    public Text input7;
+
+    private int count = 0;
     private Connection _connection;
     public int numRooms = 10;
     private List<List<string>> _rooms;
+
+    //GameObject t = new GameObject("textboxes");
 
     private Queue<string> _texts = new Queue<string>();
     
@@ -134,10 +146,51 @@ public class Main : MonoBehaviour
 
     void Update()
     {
+        if (count > 6)
+        {
+            count = 0;
+        }
         while (_texts.Count > 0)
         {
             var text = _texts.Dequeue();
             Debug.Log(text);
+            //text = "sdf";
+            if (count == 0)
+            {
+                input.text = text;
+                count += 1;
+            }
+            else if(count == 1)
+            {
+                input2.text = text;
+                count += 1;
+            }
+            else if (count == 2)
+            {
+                input3.text = text;
+                count += 1;
+            }
+            else if (count == 3)
+            {
+                input4.text = text;
+                count += 1;
+            }
+            else if (count == 4)
+            {
+                input5.text = text;
+                count += 1;
+            }
+            else if (count == 5)
+            {
+                input5.text = text;
+                count += 1;
+            }
+            else if (count == 6)
+            {
+                input7.text = text;
+                count += 1;
+            }
+
         }
     }
     
