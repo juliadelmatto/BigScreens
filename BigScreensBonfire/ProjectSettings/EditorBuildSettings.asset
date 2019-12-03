@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/finalbonfirescene.unity
+    path: Assets/Scenes/finalbonfirescene.unity
     guid: 746b9ac306090422495687974fc4ec39
   m_configObjects: {}
