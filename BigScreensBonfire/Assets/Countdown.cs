@@ -26,7 +26,7 @@ public class Countdown : MonoBehaviour
         }
         else if ((timeLeft>-1)&&(timeLeft<1))
         {
-            countdown.text = ("Refresh page!!");
+            countdown.text = ("Type to find who you are talking to!");
         }
         if (timeLeft <-1)
         {
