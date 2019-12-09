@@ -17,8 +17,13 @@ public class Main : MonoBehaviour
 
     private int count = 0;
     private Connection _connection;
-    public int numRooms = 10;
+    private string ID;
+
+    public int PlayersPerRoom;
+    public int MaxPlayers;
+
     private List<List<string>> _rooms;
+    private List<string> _lobby;
 
     //GameObject t = new GameObject("textboxes");
 
@@ -26,14 +31,11 @@ public class Main : MonoBehaviour
     
     void Awake()
     {
+        _lobby = new List<string>();
         _rooms = new List<List<string>>();
-        for (var i = 0; i < numRooms; i++)
-        {
-            _rooms.Add(new List<string>());
-        }
         
-        _connection = new Connection("https://bigscreens.herokuapp.com/socket.io/", "Bonfire", "game");
-        //_connection = new Connection("http://10.18.15.82:8000/", "Balls", "game");
+        
+        _connection = new Connection("https://www.bigscreens.live/socket.io/", "Bonfire", "game");
 
         _connection.OnConnect(() => { Debug.Log("CONNECTED"); });
 
@@ -43,6 +45,13 @@ public class Main : MonoBehaviour
             {
                 Debug.Log($"OTHER CONNECTED: {id} {type}");
                 ClientConnected(id);
+                if (_lobby.Count > MaxPlayers)
+                {
+                    _connection.SendTo("list-is-full", id);
+                }
+                else {
+                    _connection.SendTo("you-got-in", id);
+                }
             }
         );
 
@@ -57,21 +66,21 @@ public class Main : MonoBehaviour
         _connection.Open();
 
 
-        _connection.On("create-text", (string sender, string text) =>
+        _connection.On("create-text", (string id, string text) =>
         {
-            Debug.Log("creating text");
+            //Debug.Log("creating text");
             _texts.Enqueue(text);
-            var roomIndex = GetRoomForClient(sender);
+            var roomIndex = GetRoomForClient(id);
             if (roomIndex == -1)
             {
-                Debug.LogError($"Could not find room for sender: {sender}");
+                Debug.LogError($"Could not find room for sender: {id}");
             }
             else
             {
                 Debug.Log($"Sending text to room {roomIndex}: {text}");
                 _rooms[roomIndex].ForEach(playerInRoom =>
                 {
-                    _connection.SendTo("text", playerInRoom, text);
+                    _connection.SendTo("text", playerInRoom, id, text);
                 });
             }
         });
@@ -107,13 +116,41 @@ public class Main : MonoBehaviour
         }
         return leastIndex;
     }
-    
+
+    private void GameStart()
+    {
+        var numRooms = Mathf.Floor(_lobby.Count/PlayersPerRoom);
+        for (var i = 0; i < numRooms; i++)
+        {
+            _rooms.Add(new List<string>());
+        }
+
+        while(_lobby.Count > 0)
+        {
+
+            var player = _lobby[0];
+            _lobby.RemoveAt(0);
+            var roomIndex = GetLeastPopulatedRoomIndex();
+            _rooms[roomIndex].Add(player);
+            if (roomIndex >= 0){
+                Debug.Log($"Join room {roomIndex}");
+            }
+            //_rooms[roomIndex].ForEach(playerInRoom =>
+            //{
+                _connection.SendTo("start", player);
+            //});
+        }
+
+    }
+
     private void ClientConnected(string id)
     {
-        var roomIndex = GetLeastPopulatedRoomIndex();
-        var room = _rooms[roomIndex];
-        room.Add(id);
-        Debug.Log($"Added player {id} to room {roomIndex}");
+        _lobby.Add(id);
+        ID = id;
+        //var roomIndex = GetLeastPopulatedRoomIndex();
+        //var room = _rooms[roomIndex];
+        //room.Add(id);
+        Debug.Log($"Added player {id} to lobby list");
     }
 
     private void ClientDisconnected(string id)
@@ -146,6 +183,12 @@ public class Main : MonoBehaviour
 
     void Update()
     {
+
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            GameStart();
+        }
+
         if (count > 6)
         {
             count = 0;
