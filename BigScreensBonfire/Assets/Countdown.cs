@@ -11,6 +11,8 @@ public class Countdown : MonoBehaviour
     public Text instructions2;
     private bool showinstru = false;
     private bool changetext = false;
+    private bool starttimer=false;
+
 
     public Text title;
     void Start()
@@ -20,20 +22,22 @@ public class Countdown : MonoBehaviour
     }
     void Update()
     {
-        if (timeLeft > 0)
+        if (starttimer == true)
         {
-            countdown.text = ("" + timeLeft); //Showing the Score on the Canvas
+            if (timeLeft > 0)
+            {
+                countdown.text = ("" + timeLeft); //Showing the Score on the Canvas
+            }
+            else if ((timeLeft > -1) && (timeLeft < 1))
+            {
+                countdown.text = ("Go!");
+            }
+            if (timeLeft < -1)
+            {
+                countdown.text = ("");
+                instructions.text = ("");
+            }
         }
-        else if ((timeLeft>-1)&&(timeLeft<1))
-        {
-            countdown.text = ("Type to find who you are talking to!");
-        }
-        if (timeLeft <-1)
-        {
-            countdown.text = ("");
-            instructions.text = ("");
-        }
-
 
         //show instructions text
         if (Input.GetKeyDown(KeyCode.Z))
