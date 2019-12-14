@@ -31,7 +31,7 @@ public class Countdown : MonoBehaviour
             }
             else if ((timeLeft > -1) && (timeLeft < 1))
             {
-                countdown.text = ("Go!");
+                countdown.text = ("Type on your phone to find your group");
             }
             if (timeLeft < -1)
             {
