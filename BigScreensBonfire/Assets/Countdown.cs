@@ -17,13 +17,14 @@ public class Countdown : MonoBehaviour
     public Text title;
     void Start()
     {
-        StartCoroutine("LoseTime");
-        Time.timeScale = 1; //Just making sure that the timeScale is right
+        countdown.text = ("Get ready for the game to start");
+
     }
     void Update()
     {
         if (starttimer == true)
         {
+            
             if (timeLeft > 0)
             {
                 countdown.text = ("" + timeLeft); //Showing the Score on the Canvas
@@ -38,9 +39,15 @@ public class Countdown : MonoBehaviour
                 instructions.text = ("");
             }
         }
+        if (Input.GetKeyDown(KeyCode.H)) {
+            starttimer = true;
+            countdown.text = ("5");
+            StartCoroutine("LoseTime");
+            Time.timeScale = 1; //Just making sure that the timeScale is right
 
-        //show instructions text
-        if (Input.GetKeyDown(KeyCode.Z))
+        }
+            //show instructions text
+            if (Input.GetKeyDown(KeyCode.Z))
         {
             showinstru = true;
         }

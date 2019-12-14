@@ -25,6 +25,11 @@ public class Main : MonoBehaviour
     private List<List<string>> _rooms;
     private List<string> _lobby;
 
+    public bool groupone = false;
+    public bool grouptwo = false;
+    public bool groupthree = false;
+    public bool groupfour = false;
+
     //GameObject t = new GameObject("textboxes");
 
     private Queue<string> _texts = new Queue<string>();
@@ -197,6 +202,22 @@ public class Main : MonoBehaviour
         {
             var text = _texts.Dequeue();
             Debug.Log(text);
+            if (text == "aa12")
+            {
+                groupone = true;
+            }
+            if (text == "bc22")
+            {
+                grouptwo = true;
+            }
+            if (text == "cc33")
+            {
+                groupthree = true;
+            }
+            if (text == "nn23")
+            {
+                groupfour = true;
+            }
             //text = "sdf";
             if (count == 0)
             {

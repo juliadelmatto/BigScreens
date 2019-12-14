@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class flowercontrol : MonoBehaviour
 {
+    public GameObject Main;
     public GameObject flower1;
     public GameObject flower2;
     public GameObject flower3;
@@ -31,26 +32,42 @@ public class flowercontrol : MonoBehaviour
     void Update()
     {
         //QWER corresponds to each flower, makes it appear
-        if (Input.GetKeyDown(KeyCode.Q))
-        {
+        if(Main.GetComponent<Main>().groupone == true) {
             flower1.SetActive(true);
-            
         }
-        if (Input.GetKeyDown(KeyCode.W))
-        {     
+        if (Main.GetComponent<Main>().grouptwo == true)
+        {
             flower2.SetActive(true);
-            
         }
-        if (Input.GetKeyDown(KeyCode.E))
+        if(Main.GetComponent<Main>().groupthree == true)
         {
             flower3.SetActive(true);
-           
         }
-        if (Input.GetKeyDown(KeyCode.R))
+        if (Main.GetComponent<Main>().groupfour == true)
         {
             flower4.SetActive(true);
-            
         }
+        //if (Input.GetKeyDown(KeyCode.Q))
+        //{
+        //    //mainobject bool 1 == true
+        //    flower1.SetActive(true);
+
+        //}
+        //if (Input.GetKeyDown(KeyCode.W))
+        //{     
+        //    flower2.SetActive(true);
+
+        //}
+        //if (Input.GetKeyDown(KeyCode.E))
+        //{
+        //    flower3.SetActive(true);
+
+        //}
+        //if (Input.GetKeyDown(KeyCode.R))
+        //{
+        //    flower4.SetActive(true);
+
+        //}
 
 
 
