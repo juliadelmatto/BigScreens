@@ -1,0 +1,1591 @@
+fileFormatVersion: 2
+guid: e5d643ae97ba64268aa858b0fa02fa62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -682061260844400398
+    second: redflower_0
+  - first:
+      213: 5033491625286984124
+    second: redflower_1
+  - first:
+      213: -5587891434656530198
+    second: redflower_2
+  - first:
+      213: -3756027262462746232
+    second: redflower_3
+  - first:
+      213: -8789930574771487548
+    second: redflower_4
+  - first:
+      213: 4472778610075838459
+    second: redflower_5
+  - first:
+      213: 8587625906331618342
+    second: redflower_6
+  - first:
+      213: 5408481945062644156
+    second: redflower_7
+  - first:
+      213: 8893689962846123360
+    second: redflower_8
+  - first:
+      213: 1007608311653224209
+    second: redflower_9
+  - first:
+      213: 8921768400349011742
+    second: redflower_10
+  - first:
+      213: -589891939783398900
+    second: redflower_11
+  - first:
+      213: 2845535709414228491
+    second: redflower_12
+  - first:
+      213: -7420780307157957838
+    second: redflower_13
+  - first:
+      213: 7256043652049866383
+    second: redflower_14
+  - first:
+      213: 2784051103919502718
+    second: redflower_15
+  - first:
+      213: 7873817876790068210
+    second: redflower_16
+  - first:
+      213: -3288120351953486303
+    second: redflower_17
+  - first:
+      213: -5569195510202192853
+    second: redflower_18
+  - first:
+      213: -5186046625490193008
+    second: redflower_19
+  - first:
+      213: 4694091020371471870
+    second: redflower_20
+  - first:
+      213: 3659972908847884497
+    second: redflower_21
+  - first:
+      213: -2338744618758772187
+    second: redflower_22
+  - first:
+      213: 3409764901010771935
+    second: redflower_23
+  - first:
+      213: 2417920752209146754
+    second: redflower_24
+  - first:
+      213: -4365442439855833604
+    second: redflower_25
+  - first:
+      213: 9124259145486948322
+    second: redflower_26
+  - first:
+      213: -962858925612907959
+    second: redflower_27
+  - first:
+      213: 5023475473155734183
+    second: redflower_28
+  - first:
+      213: -3598274954029282675
+    second: redflower_29
+  - first:
+      213: -2277105127189534537
+    second: redflower_30
+  - first:
+      213: -8479299104080186743
+    second: redflower_31
+  - first:
+      213: -6499290931457175009
+    second: redflower_32
+  - first:
+      213: -664804434974699393
+    second: redflower_33
+  - first:
+      213: 1794729721602480817
+    second: redflower_34
+  - first:
+      213: -7350235658764024517
+    second: redflower_35
+  - first:
+      213: 5085497390368384065
+    second: redflower_36
+  - first:
+      213: -8806680766156875696
+    second: redflower_37
+  - first:
+      213: -5901409760969767659
+    second: redflower_38
+  - first:
+      213: 8253625233191412575
+    second: redflower_39
+  - first:
+      213: -421592042687235997
+    second: redflower_40
+  - first:
+      213: -3414695377463918214
+    second: redflower_41
+  - first:
+      213: 20712081785886453
+    second: redflower_42
+  - first:
+      213: -1698101023887158144
+    second: redflower_43
+  - first:
+      213: -8891471036682212496
+    second: redflower_44
+  - first:
+      213: -8634521537137754235
+    second: redflower_45
+  - first:
+      213: -8755825406417508693
+    second: redflower_46
+  - first:
+      213: 4965260199484297915
+    second: redflower_47
+  - first:
+      213: -5065788991162598176
+    second: redflower_48
+  - first:
+      213: 4710325609565972404
+    second: redflower_49
+  - first:
+      213: 4347255788598382419
+    second: redflower_50
+  - first:
+      213: 8992229949206004891
+    second: redflower_51
+  - first:
+      213: 638228026567679528
+    second: redflower_52
+  - first:
+      213: -3471723452287408390
+    second: redflower_53
+  - first:
+      213: 449627040010947055
+    second: redflower_54
+  - first:
+      213: -3706119142707554120
+    second: redflower_55
+  - first:
+      213: -3884033580492485578
+    second: redflower_56
+  - first:
+      213: 6241479931818447931
+    second: redflower_57
+  - first:
+      213: 9007504721621156639
+    second: redflower_58
+  - first:
+      213: -4785877026436793981
+    second: redflower_59
+  - first:
+      213: 5421798165105021498
+    second: redflower_60
+  - first:
+      213: 9015911257213891963
+    second: redflower_61
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redflower_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed120da40ea0b48d394546459287658b
+      internalID: -682061260844400398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4187971f928634104ab09b15d06ae321
+      internalID: 5033491625286984124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c981654fdbfa9441387bb3c8a4962c84
+      internalID: -5587891434656530198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bdd3da2631a47178118ce7946b0fb5
+      internalID: -3756027262462746232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babf1036659eb45f48387be644d3e3e4
+      internalID: -8789930574771487548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_5
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33799bb9932274f7bbdf7c20fc8c6758
+      internalID: 4472778610075838459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_6
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99c08be5543c4572855dc2d84a2b573
+      internalID: 8587625906331618342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_7
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aec28a3067b4f3e9bc52f9555ad926
+      internalID: 5408481945062644156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_8
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd09254345644d3abf2e3f8cdeef1f4
+      internalID: 8893689962846123360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_9
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6169d25bfe553419c8389b1ffb0ff8c4
+      internalID: 1007608311653224209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_10
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1743
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ceed464865478fb1cc588034d68e1
+      internalID: 8921768400349011742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a860a40f86d4ea08bdfd15d3a2b0c0
+      internalID: -589891939783398900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44563b77834c6419095e6e5ccf2b0e0c
+      internalID: 2845535709414228491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873916eac1eb449d09f3f7ccb900f40f
+      internalID: -7420780307157957838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_14
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ac8b4a8ae81476382f35438a7ee0ef
+      internalID: 7256043652049866383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_15
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0190c830dae074760bcae991f9f95c3b
+      internalID: 2784051103919502718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_16
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9c976cbd6b94b5cac58fa162ebd80a
+      internalID: 7873817876790068210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_17
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62444e38b02094f288dfb243c44b285b
+      internalID: -3288120351953486303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_18
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae63a4ac019414b4289e657e0b1d1a61
+      internalID: -5569195510202192853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_19
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdaf455693554f5ead1ce9ceeb28462
+      internalID: -5186046625490193008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_20
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac891968349394a40b5453bf23eece89
+      internalID: 4694091020371471870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_21
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5844f19f7bd65430f99f3855477cfe02
+      internalID: 3659972908847884497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08caaffe893b64fb0a943b62da1bfb4c
+      internalID: -2338744618758772187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e1fe6bdbc004ec688409bf7e827ac6
+      internalID: 3409764901010771935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19726688e6b6347cebe2b5f9544fb21d
+      internalID: 2417920752209146754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_25
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdb237ab14984c9c92fd00f1aac8898
+      internalID: -4365442439855833604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_26
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb592685f5e0401dbd6d1360e0d1c3c
+      internalID: 9124259145486948322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_27
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6655d6221cc04daeb1407a2a8d3b224
+      internalID: -962858925612907959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_28
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d68f9be7932c4a4eb4372444b1a4b5e
+      internalID: 5023475473155734183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_29
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddd53fd139a94b27a64687ba2507cf8
+      internalID: -3598274954029282675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_30
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041644c892e39496389bdc5cb4df8554
+      internalID: -2277105127189534537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_31
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7928b4be23c4d2a8e225ff8f8fcd53
+      internalID: -8479299104080186743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_32
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe85b72eeab5436f99a7c9488dd3fb8
+      internalID: -6499290931457175009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b496c5590634ac597c51f9513595bb
+      internalID: -664804434974699393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_34
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e40854614e5d4e77856732e563c4e61
+      internalID: 1794729721602480817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff337e7f72394892a9b733d02b342fd
+      internalID: -7350235658764024517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_36
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d966e041c39e041ccbb0ae34884fa392
+      internalID: 5085497390368384065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76527b8922e74e1c95a50b92cd5f9ca
+      internalID: -8806680766156875696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_38
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81272886bca91497bae1edfea3b039c4
+      internalID: -5901409760969767659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_39
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2117c80f8760450abade6e3bd5f068d
+      internalID: 8253625233191412575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_40
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94d953d07c514c20b3aa62b3b7a0c70
+      internalID: -421592042687235997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_41
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb67d83b42e241e8b5d7b6d8d899d9e
+      internalID: -3414695377463918214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_42
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b25c3df3a405419a8b43ec176ddf91e
+      internalID: 20712081785886453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_43
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa027c62a5c94121abf6d8f829def84
+      internalID: -1698101023887158144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35babf178d2e94ba19ba76fe28bcc5e0
+      internalID: -8891471036682212496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffafa542b6fd1413499a3f7f701f161e
+      internalID: -8634521537137754235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_46
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65a9c546536b4549bbef96fefecad26
+      internalID: -8755825406417508693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_47
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85956491099347b7941918c34496e11
+      internalID: 4965260199484297915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_48
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c433d61ff04c15bfe6655611f9438
+      internalID: -5065788991162598176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_49
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971fb8300605a43a2a405ed8ba40d355
+      internalID: 4710325609565972404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_50
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81501fc0251674d06a67aad7fa81ec27
+      internalID: 4347255788598382419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_51
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48b701271c5a435f803297d6128c5fb
+      internalID: 8992229949206004891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_52
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eb3fc3bc6ed4d52b041f94267fea66
+      internalID: 638228026567679528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_53
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19954e41c714f45ee8831a10a579ec27
+      internalID: -3471723452287408390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_54
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b2ce328feb444788004b9ac5b31e91
+      internalID: 449627040010947055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afcc57bcd53248e79f6c52d1254bd12
+      internalID: -3706119142707554120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_56
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f1071be80be4f06989e3fdc355b97e
+      internalID: -3884033580492485578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a32de5d09b804b3ba6c22d1e711b300
+      internalID: 6241479931818447931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_58
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096fbb42d27b046a0aec22cc2a0d8c46
+      internalID: 9007504721621156639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_59
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92edbbf1c44c4a6081fe2185c708916
+      internalID: -4785877026436793981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_60
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7175ab9db55c4e6eaaa54a94ed0f786
+      internalID: 5421798165105021498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redflower_61
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9291828199d4fe296a4efb517914d9
+      internalID: 9015911257213891963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
