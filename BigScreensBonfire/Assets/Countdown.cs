@@ -33,7 +33,7 @@ public class Countdown : MonoBehaviour
             {
                 countdown.text = ("Type on your phone to find your group");
             }
-            if (timeLeft < -1)
+            if (timeLeft < -6)
             {
                 countdown.text = ("");
                 instructions.text = ("");
