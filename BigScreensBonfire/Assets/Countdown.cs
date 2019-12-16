@@ -12,7 +12,7 @@ public class Countdown : MonoBehaviour
     private bool showinstru = false;
     private bool changetext = false;
     private bool starttimer=false;
-
+    private bool nomoretext = false;
 
     public Text title;
     void Start()
@@ -64,6 +64,18 @@ public class Countdown : MonoBehaviour
         {
             changetext = true;
             
+        }
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            nomoretext = true;
+            instructions.text = ("");
+            instructions2.text = ("");
+
+        }
+        if (nomoretext)
+        {
+            instructions.text = ("");
+            instructions2.text = ("");
         }
 
         if (changetext == true)

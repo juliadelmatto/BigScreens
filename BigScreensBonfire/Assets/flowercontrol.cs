@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class flowercontrol : MonoBehaviour
 {
+
     public GameObject Main;
     public GameObject flower1;
+    public Animation f1;
     public GameObject flower2;
     public GameObject flower3;
     public GameObject flower4;
@@ -32,21 +34,24 @@ public class flowercontrol : MonoBehaviour
     void Update()
     {
         //QWER corresponds to each flower, makes it appear
-        if(Main.GetComponent<Main>().groupone == true) {
+        if((Main.GetComponent<Main>().groupone == true)|| (Input.GetKeyDown(KeyCode.Q))){
             flower1.SetActive(true);
+           
         }
-        if (Main.GetComponent<Main>().grouptwo == true)
+        if ((Main.GetComponent<Main>().grouptwo == true)|| (Input.GetKeyDown(KeyCode.W)))
         {
             flower2.SetActive(true);
         }
-        if(Main.GetComponent<Main>().groupthree == true)
+        if((Main.GetComponent<Main>().groupthree == true)|| (Input.GetKeyDown(KeyCode.E)))
         {
             flower3.SetActive(true);
         }
-        if (Main.GetComponent<Main>().groupfour == true)
+        if ((Main.GetComponent<Main>().groupfour == true) || (Input.GetKeyDown(KeyCode.R)))
         {
             flower4.SetActive(true);
+
         }
+
         //if (Input.GetKeyDown(KeyCode.Q))
         //{
         //    //mainobject bool 1 == true
@@ -113,7 +118,7 @@ public class flowercontrol : MonoBehaviour
         }
     }
 
-    public void lerpFlower(Vector2 dest, GameObject flower)
+   public void lerpFlower(Vector2 dest, GameObject flower)
     {
         flower.transform.position = Vector3.Lerp(flower.transform.position,
             new Vector2(dest.x, dest.y),

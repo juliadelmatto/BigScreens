@@ -30,7 +30,7 @@ public class BgFadeInOut : MonoBehaviour
         if (fade1)
         {
             Color c = bgimage1.color;
-            c.a -= 0.01f;
+            c.a -= 0.001f;
 
             bgimage1.color = c;
         }
@@ -43,7 +43,7 @@ public class BgFadeInOut : MonoBehaviour
         if (fade2)
         {
             Color c2 = bgimage2.color;
-            c2.a -= 0.01f;
+            c2.a -= 0.001f;
 
             bgimage2.color = c2;
         }
@@ -57,7 +57,7 @@ public class BgFadeInOut : MonoBehaviour
         if (fademain)
         {
             Color c3 = main.color;
-            c3.a -= 0.01f;
+            c3.a -= 0.001f;
 
             main.color = c3;
         }
@@ -70,7 +70,7 @@ public class BgFadeInOut : MonoBehaviour
         if (end)
         {
             Color c4 = black.color;
-            c4.a += 0.01f;
+            c4.a += 0.001f;
 
             black.color = c4;
         }

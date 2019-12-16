@@ -1,7 +1,193 @@
 fileFormatVersion: 2
 guid: bf12b8e2ec7b540c6b5f6fb14b2a05c7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4632006553782790548
+    second: blueflower_0
+  - first:
+      213: -781044818000177771
+    second: blueflower_1
+  - first:
+      213: 7642569473278341559
+    second: blueflower_2
+  - first:
+      213: -24927091405199949
+    second: blueflower_3
+  - first:
+      213: 599922657651374088
+    second: blueflower_4
+  - first:
+      213: 8173714917116582375
+    second: blueflower_5
+  - first:
+      213: -6322175361856711859
+    second: blueflower_6
+  - first:
+      213: -823047396891191783
+    second: blueflower_7
+  - first:
+      213: 1680228897037019909
+    second: blueflower_8
+  - first:
+      213: 4551118661133824009
+    second: blueflower_9
+  - first:
+      213: 3950160996515092452
+    second: blueflower_10
+  - first:
+      213: -7287765518777339094
+    second: blueflower_11
+  - first:
+      213: -6930922160871428105
+    second: blueflower_12
+  - first:
+      213: -859121570597584393
+    second: blueflower_13
+  - first:
+      213: 690837283398834954
+    second: blueflower_14
+  - first:
+      213: -4017477131239492033
+    second: blueflower_15
+  - first:
+      213: 9132537436608467782
+    second: blueflower_16
+  - first:
+      213: -2022972424709767051
+    second: blueflower_17
+  - first:
+      213: 4862673152082615717
+    second: blueflower_18
+  - first:
+      213: 6104041868437019120
+    second: blueflower_19
+  - first:
+      213: -8364994652636944030
+    second: blueflower_20
+  - first:
+      213: -7870720066754412058
+    second: blueflower_21
+  - first:
+      213: 1708281900550380288
+    second: blueflower_22
+  - first:
+      213: 4083147519046599054
+    second: blueflower_23
+  - first:
+      213: -3740341579154267170
+    second: blueflower_24
+  - first:
+      213: 357965294518853283
+    second: blueflower_25
+  - first:
+      213: 2086924175981523684
+    second: blueflower_26
+  - first:
+      213: 1423730910846831782
+    second: blueflower_27
+  - first:
+      213: -7722567383488500580
+    second: blueflower_28
+  - first:
+      213: -935197856210343108
+    second: blueflower_29
+  - first:
+      213: 1071560239739174588
+    second: blueflower_30
+  - first:
+      213: 642481289931716257
+    second: blueflower_31
+  - first:
+      213: 6378500915409124824
+    second: blueflower_32
+  - first:
+      213: -4679386625584034962
+    second: blueflower_33
+  - first:
+      213: -796965854307841085
+    second: blueflower_34
+  - first:
+      213: 8086390026465267440
+    second: blueflower_35
+  - first:
+      213: -1399311975107361688
+    second: blueflower_36
+  - first:
+      213: -4671116868265947169
+    second: blueflower_37
+  - first:
+      213: 5879079189407506216
+    second: blueflower_38
+  - first:
+      213: -6338258390135280064
+    second: blueflower_39
+  - first:
+      213: 3770053217179626201
+    second: blueflower_40
+  - first:
+      213: -1203459509889966842
+    second: blueflower_41
+  - first:
+      213: -1183416553948993917
+    second: blueflower_42
+  - first:
+      213: 3002691473924258260
+    second: blueflower_43
+  - first:
+      213: -4849969127956659168
+    second: blueflower_44
+  - first:
+      213: -2357351460715324981
+    second: blueflower_45
+  - first:
+      213: -2365872267676181397
+    second: blueflower_46
+  - first:
+      213: 4867871931344688381
+    second: blueflower_47
+  - first:
+      213: 8125446349654215743
+    second: blueflower_48
+  - first:
+      213: 3826370873311049218
+    second: blueflower_49
+  - first:
+      213: 3559434209416928859
+    second: blueflower_50
+  - first:
+      213: -7670980676651759963
+    second: blueflower_51
+  - first:
+      213: 4445587254339248743
+    second: blueflower_52
+  - first:
+      213: -814570204137445115
+    second: blueflower_53
+  - first:
+      213: 7767632833975838474
+    second: blueflower_54
+  - first:
+      213: -5455683691550060685
+    second: blueflower_55
+  - first:
+      213: -840420392568077523
+    second: blueflower_56
+  - first:
+      213: 3021168812990463598
+    second: blueflower_57
+  - first:
+      213: -4428920836161027368
+    second: blueflower_58
+  - first:
+      213: -5570829797399306253
+    second: blueflower_59
+  - first:
+      213: -7921738520821517530
+    second: blueflower_60
+  - first:
+      213: -7783834559029869149
+    second: blueflower_61
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +226,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +256,1323 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: blueflower_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9664c0886587d4f4387381171ae0c352
+      internalID: 4632006553782790548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46950a704e5e949afb80b2cdf2e9a233
+      internalID: -781044818000177771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c23c57aec3f5410d87629aac070af18
+      internalID: 7642569473278341559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4966744dd6de428d8630cf7fd33f0c5
+      internalID: -24927091405199949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58ff4b23b82d44c8bab6b8d136e8254
+      internalID: 599922657651374088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_5
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ace25c28bcc473fb61246dcabbf85a
+      internalID: 8173714917116582375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_6
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d687bea1af894fb0ab465993c029539
+      internalID: -6322175361856711859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_7
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff86a764d7dc4fc1867fc7d55690774
+      internalID: -823047396891191783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_8
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a56ba7d58ac48d2bfbe00108797649
+      internalID: 1680228897037019909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_9
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c07d50479d34e9982dbd093eb1fd8f
+      internalID: 4551118661133824009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_10
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1176e58fa972471c90bfa69a5fd2a1c
+      internalID: 3950160996515092452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340b4ff95156a4b1c82e6a83df6f987a
+      internalID: -7287765518777339094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719a071b8e0234781ad785e33c614f0c
+      internalID: -6930922160871428105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b19372b32a042b0aa896885e0b55f1
+      internalID: -859121570597584393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_14
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fceceace07b847bb9b0d18191c6e15b
+      internalID: 690837283398834954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_15
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1434ec4b62aa749ec81be30dc87f5a8f
+      internalID: -4017477131239492033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_16
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6adc1ef509c4805a5373c9bf53a5d3
+      internalID: 9132537436608467782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_17
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6d60f6bd35244a28573d1d860a210b
+      internalID: -2022972424709767051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_18
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb38c3bba222347bf93e4efc06f6643a
+      internalID: 4862673152082615717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_19
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a531a2078d8c45ff94d36fbfc1349a6
+      internalID: 6104041868437019120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_20
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d07d52422324bb9956d9dd1f130fb5
+      internalID: -8364994652636944030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_21
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9fc2050b5454b61babe30e4232953a
+      internalID: -7870720066754412058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f59695ee3524658a99afeb6de6c7cf
+      internalID: 1708281900550380288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efbd4535841e402f84681a44bdb9b14
+      internalID: 4083147519046599054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1732f360623da426c97b96e4724f3cd5
+      internalID: -3740341579154267170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_25
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a21cdceb902428c96f934915ca05b8
+      internalID: 357965294518853283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_26
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35d9c3c397e41eca56f1d1fdb8a765
+      internalID: 2086924175981523684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_27
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cadd69f1764843bd8eae90a5ef68494
+      internalID: 1423730910846831782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_28
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1338d31a7eb884221b52e53120fb2815
+      internalID: -7722567383488500580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_29
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f188d22733d94706afd43a6288915a9
+      internalID: -935197856210343108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_30
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364f99a801eae484d92c8b240cc01436
+      internalID: 1071560239739174588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_31
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b8833a63f4d493e86ddf0b179c98ee
+      internalID: 642481289931716257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_32
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa13f9c734d97425688153eaae740066
+      internalID: 6378500915409124824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3c6b9da1c014013ab4f0b6f5bb3998
+      internalID: -4679386625584034962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_34
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6f3f6e18dc74c489f0d79039d7b27a
+      internalID: -796965854307841085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98111b5ac6ba4b258ac0578697297b5
+      internalID: 8086390026465267440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_36
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804e047b17893448fa43c8acb30c8cde
+      internalID: -1399311975107361688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199d662f8b2cf48b6b53fb2d3b20eb78
+      internalID: -4671116868265947169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_38
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37360d0c7687474da67adc14370c6bc
+      internalID: 5879079189407506216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_39
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe0b9b7c631e404aa7121fa931bf045
+      internalID: -6338258390135280064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_40
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1125df7ce31fc400b9f29bc935ac26dd
+      internalID: 3770053217179626201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_41
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75673c58c02b145c4808d9298f8b60fc
+      internalID: -1203459509889966842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_42
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e51a514f0ce440db3f4cf6b0b78630
+      internalID: -1183416553948993917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_43
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31441dbb8bc1d4daab354877fa99d616
+      internalID: 3002691473924258260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6824a88a1d5d2434ca02ee6bc4a5fc8a
+      internalID: -4849969127956659168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262618473b36542259618df8ad2996cc
+      internalID: -2357351460715324981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_46
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1271ee8d8dadc4721bd3f353e362db8b
+      internalID: -2365872267676181397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_47
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9552cd6e28d4680ba4c93e3e91b1f8
+      internalID: 4867871931344688381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_48
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea9ae9113f94bb3a12d54a219c5e20
+      internalID: 8125446349654215743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_49
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c285cad62dd82430f9b2da9285d29f57
+      internalID: 3826370873311049218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_50
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13a598c138a4ac9a89719636ca41ee
+      internalID: 3559434209416928859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_51
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73571cae14584bbfb5e7f899ae580f6
+      internalID: -7670980676651759963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_52
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256def14a36e423fba32bc770552caa
+      internalID: 4445587254339248743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_53
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e1107354212469eae88f7aae136a1d
+      internalID: -814570204137445115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_54
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4448c308d35f4f3d88f9c2ef5abed8b
+      internalID: 7767632833975838474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcb577a0a48f49a0a2dce3972b16ac5
+      internalID: -5455683691550060685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_56
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e161af76304a4317af57e7bafcce7a8
+      internalID: -840420392568077523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb78782bd02247e69fefad34508b6c9
+      internalID: 3021168812990463598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_58
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b8c9cad02bf4cf88089bc27f0ad0ea
+      internalID: -4428920836161027368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_59
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065906188e8824f42a1ed4b48d49e987
+      internalID: -5570829797399306253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_60
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c699b4312c44f4bbd8bd9a60fb972765
+      internalID: -7921738520821517530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueflower_61
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fe8bf3cd040418a81755749dc366eb
+      internalID: -7783834559029869149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
