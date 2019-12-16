@@ -37,6 +37,8 @@ public class Countdown : MonoBehaviour
             {
                 countdown.text = ("");
                 instructions.text = ("");
+                instructions2.text = ("");
+                title.text = ("");
             }
         }
         if (Input.GetKeyDown(KeyCode.H)) {
