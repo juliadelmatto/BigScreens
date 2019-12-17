@@ -15,6 +15,8 @@ public class Countdown : MonoBehaviour
     private bool nomoretext = false;
 
     public Text title;
+    //public int timeTextLast = -6;
+
     void Start()
     {
         countdown.text = ("Get ready for the game to start");
