@@ -12,7 +12,7 @@ public class Countdown : MonoBehaviour
     private bool showinstru = false;
     private bool changetext = false;
     private bool starttimer=false;
-
+    public int textlasts = -6;
 
     public Text title;
     void Start()
@@ -33,7 +33,7 @@ public class Countdown : MonoBehaviour
             {
                 countdown.text = ("Type on your phone to find your group");
             }
-            if (timeLeft < -6)
+            if (timeLeft < textlasts)
             {
                 countdown.text = ("");
                 instructions.text = ("");

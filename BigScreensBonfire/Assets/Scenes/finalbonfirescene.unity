@@ -454,6 +454,7 @@ MonoBehaviour:
   countdown: {fileID: 242960399}
   instructions: {fileID: 241893688}
   instructions2: {fileID: 965380714}
+  textlasts: -6
   title: {fileID: 0}
 --- !u!1 &260917217
 GameObject:
@@ -5845,6 +5846,7 @@ MonoBehaviour:
   countdown: {fileID: 522694380}
   instructions: {fileID: 1961711787}
   instructions2: {fileID: 965380714}
+  textlasts: -6
   title: {fileID: 675998928}
 --- !u!114 &522694380
 MonoBehaviour:
@@ -11005,6 +11007,7 @@ MonoBehaviour:
   countdown: {fileID: 675626903}
   instructions: {fileID: 1961711787}
   instructions2: {fileID: 757875446}
+  textlasts: -6
   title: {fileID: 675998928}
 --- !u!114 &675626903
 MonoBehaviour:
@@ -21808,12 +21811,17 @@ PrefabInstance:
     - target: {fileID: 4438256420289109941, guid: 59eb7169b989840d4acaab027563861c,
         type: 3}
       propertyPath: MaxPlayers
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4438256420289109941, guid: 59eb7169b989840d4acaab027563861c,
         type: 3}
       propertyPath: PlayersPerRoom
-      value: 1
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4438256420289109941, guid: 59eb7169b989840d4acaab027563861c,
+        type: 3}
+      propertyPath: groupone
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 59eb7169b989840d4acaab027563861c, type: 3}
@@ -22212,6 +22220,7 @@ MonoBehaviour:
   countdown: {fileID: 1666366060}
   instructions: {fileID: 757875446}
   instructions2: {fileID: 965380714}
+  textlasts: -6
   title: {fileID: 675998928}
 --- !u!114 &1666366060
 MonoBehaviour:
