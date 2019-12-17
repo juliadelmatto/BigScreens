@@ -12,7 +12,7 @@ public class Countdown : MonoBehaviour
     private bool showinstru = false;
     private bool changetext = false;
     private bool starttimer=false;
-    public int textlasts = -6;
+    private bool nomoretext = false;
 
     public Text title;
     void Start()
@@ -33,10 +33,12 @@ public class Countdown : MonoBehaviour
             {
                 countdown.text = ("Type on your phone to find your group");
             }
-            if (timeLeft < textlasts)
+            if (timeLeft < -6)
             {
                 countdown.text = ("");
                 instructions.text = ("");
+                instructions2.text = ("");
+                title.text = ("");
             }
         }
         if (Input.GetKeyDown(KeyCode.H)) {
@@ -64,6 +66,18 @@ public class Countdown : MonoBehaviour
         {
             changetext = true;
             
+        }
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            nomoretext = true;
+            instructions.text = ("");
+            instructions2.text = ("");
+
+        }
+        if (nomoretext)
+        {
+            instructions.text = ("");
+            instructions2.text = ("");
         }
 
         if (changetext == true)

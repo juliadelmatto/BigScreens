@@ -1,7 +1,193 @@
 fileFormatVersion: 2
 guid: 6ae66197c260847b8a7e0316808793ab
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7066403511330430156
+    second: lightorangeflower_0
+  - first:
+      213: -339874321122617313
+    second: lightorangeflower_1
+  - first:
+      213: 4597984955334226831
+    second: lightorangeflower_2
+  - first:
+      213: 6077545962345212561
+    second: lightorangeflower_3
+  - first:
+      213: 542562937873696839
+    second: lightorangeflower_4
+  - first:
+      213: 5016329523529033510
+    second: lightorangeflower_5
+  - first:
+      213: 8427905314589815550
+    second: lightorangeflower_6
+  - first:
+      213: -5102669454973939672
+    second: lightorangeflower_7
+  - first:
+      213: -2564736704454930535
+    second: lightorangeflower_8
+  - first:
+      213: -7968218268117280778
+    second: lightorangeflower_9
+  - first:
+      213: 75144362197600363
+    second: lightorangeflower_10
+  - first:
+      213: -2216237897851015522
+    second: lightorangeflower_11
+  - first:
+      213: -6212020314490008026
+    second: lightorangeflower_12
+  - first:
+      213: -6898220994037916258
+    second: lightorangeflower_13
+  - first:
+      213: -1695821955382084162
+    second: lightorangeflower_14
+  - first:
+      213: -8758142548481642568
+    second: lightorangeflower_15
+  - first:
+      213: -1079979714236459043
+    second: lightorangeflower_16
+  - first:
+      213: -7734833286833929833
+    second: lightorangeflower_17
+  - first:
+      213: 5922039313197169481
+    second: lightorangeflower_18
+  - first:
+      213: -8990953820805187160
+    second: lightorangeflower_19
+  - first:
+      213: 3422460909434232376
+    second: lightorangeflower_20
+  - first:
+      213: -2733360878933488938
+    second: lightorangeflower_21
+  - first:
+      213: 9148514431776087315
+    second: lightorangeflower_22
+  - first:
+      213: 1135454599263177693
+    second: lightorangeflower_23
+  - first:
+      213: 7729098031279494581
+    second: lightorangeflower_24
+  - first:
+      213: -2603417152914777605
+    second: lightorangeflower_25
+  - first:
+      213: 6054109768358178927
+    second: lightorangeflower_26
+  - first:
+      213: 6245051998567733691
+    second: lightorangeflower_27
+  - first:
+      213: -6537550253122255486
+    second: lightorangeflower_28
+  - first:
+      213: 2994671869234218245
+    second: lightorangeflower_29
+  - first:
+      213: 2564735030461088418
+    second: lightorangeflower_30
+  - first:
+      213: 6590807639122596679
+    second: lightorangeflower_31
+  - first:
+      213: 7850721339312016259
+    second: lightorangeflower_32
+  - first:
+      213: -3842878598926575555
+    second: lightorangeflower_33
+  - first:
+      213: -4981223956439391563
+    second: lightorangeflower_34
+  - first:
+      213: 6336809658809103843
+    second: lightorangeflower_35
+  - first:
+      213: 7091522259649431748
+    second: lightorangeflower_36
+  - first:
+      213: -7732941933692265947
+    second: lightorangeflower_37
+  - first:
+      213: 2253218573062755476
+    second: lightorangeflower_38
+  - first:
+      213: 5852478313606943990
+    second: lightorangeflower_39
+  - first:
+      213: 7236941138042481432
+    second: lightorangeflower_40
+  - first:
+      213: -6788696144494982080
+    second: lightorangeflower_41
+  - first:
+      213: 2354060628587221287
+    second: lightorangeflower_42
+  - first:
+      213: 6403322297959549766
+    second: lightorangeflower_43
+  - first:
+      213: 6166028810917730855
+    second: lightorangeflower_44
+  - first:
+      213: 5239433269878695058
+    second: lightorangeflower_45
+  - first:
+      213: 8842121708624490183
+    second: lightorangeflower_46
+  - first:
+      213: -7055317783395865184
+    second: lightorangeflower_47
+  - first:
+      213: -2128166752416650582
+    second: lightorangeflower_48
+  - first:
+      213: -2550831648673215823
+    second: lightorangeflower_49
+  - first:
+      213: 6581215124066570990
+    second: lightorangeflower_50
+  - first:
+      213: -2190346747529957072
+    second: lightorangeflower_51
+  - first:
+      213: 5248478293501237779
+    second: lightorangeflower_52
+  - first:
+      213: -2990190801031080882
+    second: lightorangeflower_53
+  - first:
+      213: -6449436290701084285
+    second: lightorangeflower_54
+  - first:
+      213: 8109559927747088086
+    second: lightorangeflower_55
+  - first:
+      213: -3513470472604188740
+    second: lightorangeflower_56
+  - first:
+      213: 6279708199277774902
+    second: lightorangeflower_57
+  - first:
+      213: 9076807448967989453
+    second: lightorangeflower_58
+  - first:
+      213: -7107003648240776735
+    second: lightorangeflower_59
+  - first:
+      213: 8240330096783602231
+    second: lightorangeflower_60
+  - first:
+      213: 6884874214518038092
+    second: lightorangeflower_61
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +226,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +256,1323 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: lightorangeflower_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140dc060d819482e8b9da600e4cab5a
+      internalID: -7066403511330430156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebe7eea7526c4b5c85eaf0933fa28c0
+      internalID: -339874321122617313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4322a95fc8dcf40dabeb92ba5ff70c28
+      internalID: 4597984955334226831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eacdbf5990a40a5abddc8cdae81fb7
+      internalID: 6077545962345212561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe21d5c004d8b447a92e40d4205af7ec
+      internalID: 542562937873696839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_5
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc86a246a3f4b4c4f868b092a1f85391
+      internalID: 5016329523529033510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_6
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7373eb52a40b4ba6b5d3effd71838c4
+      internalID: 8427905314589815550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_7
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd99f0ded91d47c0b014abb8ba760d4
+      internalID: -5102669454973939672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_8
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90832f609b7248a38b481f7487c2bb7
+      internalID: -2564736704454930535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_9
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021da25b5cc7e48a1a7b84999cdc25c5
+      internalID: -7968218268117280778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_10
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1748
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65334efe7c47b4fc0b1ec0c06e461dd5
+      internalID: 75144362197600363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea3828402b484772bd0d0264e7f0d87
+      internalID: -2216237897851015522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf2ebfaf6a1741d5a74979667b31866
+      internalID: -6212020314490008026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef18b458a3d12461b8078a4c79e7f20d
+      internalID: -6898220994037916258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_14
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2a2cef0efa1498eb958c67349908e9
+      internalID: -1695821955382084162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_15
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1178d02a11c1a43409aed0489e6be7cd
+      internalID: -8758142548481642568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_16
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6365b432e4149f2958b9c8dedc87a4
+      internalID: -1079979714236459043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_17
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc4d1211412740b2878b4e431f880f8
+      internalID: -7734833286833929833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_18
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0534e146fcc44eb9ec04b49694b11b
+      internalID: 5922039313197169481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_19
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a0ec17655144e28e31c028aaeb5c7
+      internalID: -8990953820805187160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_20
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf95b8805687347c09a99f3a8d078312
+      internalID: 3422460909434232376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_21
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1448
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6e1453aa80e4ab1ad84e34f69ecda1
+      internalID: -2733360878933488938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1f26afe36c846aca1c500c5dfab97b
+      internalID: 9148514431776087315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1147a7832210489d8d29139cf92cb04
+      internalID: 1135454599263177693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2b2d6d8a5234ebfa14d180f99e1268
+      internalID: 7729098031279494581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_25
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dd5f0afd1a443a1bf7cd51a486701f
+      internalID: -2603417152914777605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_26
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468c13a210c1e4975a06766ee39331a2
+      internalID: 6054109768358178927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_27
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b5bc693d9ca43b4b5376fd6805f005
+      internalID: 6245051998567733691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_28
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770e79c9a77f643f1895dcabeb4d41a1
+      internalID: -6537550253122255486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_29
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bccbef03afa546279d9fde2f1f3c7cd
+      internalID: 2994671869234218245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_30
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bc5187c9809434b8b67ec40ae69058
+      internalID: 2564735030461088418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_31
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb8f8ae3133a4ec1a2f6a0b7890924e
+      internalID: 6590807639122596679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_32
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1148
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05ca7f6db140495489278c6c8742cc4
+      internalID: 7850721339312016259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d321c8af6d4f44428e8037037152128
+      internalID: -3842878598926575555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_34
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dda5430cb4b4031a4108ceb178b42c
+      internalID: -4981223956439391563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4574fd05cae4957936db75796911c0
+      internalID: 6336809658809103843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_36
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd937c345c7247619a9ab6d15f3cca6
+      internalID: 7091522259649431748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f74b54148dd4b4a929f9578f136aa9
+      internalID: -7732941933692265947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_38
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2703637f7bc2541879c4d6cf01069450
+      internalID: 2253218573062755476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_39
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e6d3faae0c7445da68c167eb59b83d
+      internalID: 5852478313606943990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_40
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dcb646a97154c02918571bdadf047c
+      internalID: 7236941138042481432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_41
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36178cf6de7204141938cb1d94a961dd
+      internalID: -6788696144494982080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_42
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4410d32660fd44b89a4314ebf4c11395
+      internalID: 2354060628587221287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_43
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 848
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c462337150c4cb6a5fa5a3aa23066a
+      internalID: 6403322297959549766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e08970a6b847448a9470a371ca5b1d3
+      internalID: 6166028810917730855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cfbd1d1a123483bbb4cd60c930eea1
+      internalID: 5239433269878695058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_46
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7c473690e2647a9a1690ff24764db7
+      internalID: 8842121708624490183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_47
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771efb2db3d6344cfb38cfae02af7338
+      internalID: -7055317783395865184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_48
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ed57c3bad404f81a181917848c1108
+      internalID: -2128166752416650582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_49
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f2fce734d4e46ac8400ed67904510d
+      internalID: -2550831648673215823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_50
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c07f1b2e71734f1bac6587197685807
+      internalID: 6581215124066570990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_51
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c08173c003834ecf89a7794593cf33d
+      internalID: -2190346747529957072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_52
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed5be16a880e43f0a5d66526a725dac
+      internalID: 5248478293501237779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_53
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d116ec9a2f3546539e6b8e4ed36d88b
+      internalID: -2990190801031080882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_54
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 548
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a568f9cbddbe64d0f80720534f87405c
+      internalID: -6449436290701084285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27efc98371630499ca8fcf2e9d2194d8
+      internalID: 8109559927747088086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_56
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1978a34420c40e6aa7093a6743bb1d
+      internalID: -3513470472604188740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4047c7dd26737412bb3e1e86efeced5a
+      internalID: 6279708199277774902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_58
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416c1edc735e84048b1fd53bd7561c72
+      internalID: 9076807448967989453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_59
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96064da4cb584f57b569440e283a27a
+      internalID: -7107003648240776735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_60
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e368554297544c579407a5babcd8f45
+      internalID: 8240330096783602231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightorangeflower_61
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 248
+        width: 350
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b7f752025e6419eb7075cc4c18f4ff
+      internalID: 6884874214518038092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
