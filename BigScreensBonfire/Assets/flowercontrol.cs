@@ -51,7 +51,7 @@ public class flowercontrol : MonoBehaviour
             flower1.SetActive(true);
            
         }
-        if ((Main.GetComponent<Main>().grouptwo == true)))
+        if ((Main.GetComponent<Main>().grouptwo == true))
         {
             flower2.SetActive(true);
         }
