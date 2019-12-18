@@ -15,6 +15,8 @@ public class Main : MonoBehaviour
     public Text input6;
     public Text input7;
 
+    public ParticleSystem particles;
+
     private int count = 0;
     private Connection _connection;
     public int numRooms = 10;
@@ -150,6 +152,17 @@ public class Main : MonoBehaviour
         {
             count = 0;
         }
+
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+            particles.Play();
+        }
+
+        if (Input.GetKeyUp(KeyCode.A))
+        {
+            particles.Stop();
+        }
+
         while (_texts.Count > 0)
         {
             var text = _texts.Dequeue();
