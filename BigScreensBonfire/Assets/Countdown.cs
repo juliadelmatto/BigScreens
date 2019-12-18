@@ -19,7 +19,7 @@ public class Countdown : MonoBehaviour
 
     void Start()
     {
-        countdown.text = ("Get ready for the game to start");
+        countdown.text = ("Wait for the countdown to enter the chatroom on your phone");
 
     }
     void Update()
