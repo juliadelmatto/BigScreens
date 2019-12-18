@@ -58,8 +58,10 @@ public class Countdown : MonoBehaviour
         if (showinstru == true)
         {
             title.text = "";
-            instructions.text = ("After gathering your group, sit around a flower.");
-            instructions2.text = ("After gathering your group, sit around a flower.");
+            //instructions.text = ("After gathering your group, sit around a flower.");
+            //instructions2.text = ("After gathering your group, sit around a flower.");
+            countdown.text = ("After gathering your group, sit around a flower.");
+          //  instructions2.text = ("After gathering your group, sit around a flower.");
         }
 
 
@@ -72,21 +74,24 @@ public class Countdown : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.C))
         {
             nomoretext = true;
-            instructions.text = ("");
-            instructions2.text = ("");
+            //instructions.text = ("");
+            //instructions2.text = ("");
+            //countdown.text = ("");
 
         }
         if (nomoretext)
         {
             instructions.text = ("");
             instructions2.text = ("");
+            countdown.text = ("");
         }
 
         if (changetext == true)
         {
             title.text = ("The End");
-            instructions.text = ("Feel free to take a flower petal but please leave the wooden pieces");
-            instructions2.text = ("Feel free to take a flower petal but please leave the wooden pieces");
+            //instructions.text = ("Feel free to take a flower petal but please leave the wooden pieces");
+            //instructions2.text = ("Feel free to take a flower petal but please leave the wooden pieces");
+            countdown.text = ("Feel free to take a flower petal but please leave the wooden pieces");
         }
 
 
