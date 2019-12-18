@@ -10,7 +10,7 @@ public class BgFadeInOut : MonoBehaviour
     public Image main;
     public Image black;
 
-    public GameObject fire;
+    
 
     private bool fade1 = false;
     private bool fade2 = false;

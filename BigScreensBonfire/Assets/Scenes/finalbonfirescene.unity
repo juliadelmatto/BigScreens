@@ -17331,7 +17331,7 @@ MonoBehaviour:
   flower9: {fileID: 1320754547}
   flower10: {fileID: 597603013}
   destination: {x: -7, y: -1.4}
-  speedoftransition: 0.01
+  speedoftransition: 0.001
 --- !u!82 &1052288386
 AudioSource:
   m_ObjectHideFlags: 0
