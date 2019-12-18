@@ -47,49 +47,49 @@ public class flowercontrol : MonoBehaviour
     void Update()
     {
         //QWER corresponds to each flower, makes it appear
-        if((Main.GetComponent<Main>().groupone == true)|| (Input.GetKeyDown(KeyCode.Q))){
+        if((Main.GetComponent<Main>().groupone == true)){
             flower1.SetActive(true);
            
         }
-        if ((Main.GetComponent<Main>().grouptwo == true)|| (Input.GetKeyDown(KeyCode.W)))
+        if ((Main.GetComponent<Main>().grouptwo == true))
         {
             flower2.SetActive(true);
         }
-        if((Main.GetComponent<Main>().groupthree == true)|| (Input.GetKeyDown(KeyCode.E)))
+        if((Main.GetComponent<Main>().groupthree == true))
         {
             flower3.SetActive(true);
         }
-        if ((Main.GetComponent<Main>().groupfour == true) || (Input.GetKeyDown(KeyCode.R)))
+        if ((Main.GetComponent<Main>().groupfour == true))
         {
             flower4.SetActive(true);
 
         }
-        if ((Main.GetComponent<Main>().groupfive == true) || (Input.GetKeyDown(KeyCode.R)))
+        if ((Main.GetComponent<Main>().groupfive == true))
         {
             flower5.SetActive(true);
 
         }
-        if ((Main.GetComponent<Main>().groupsix == true) || (Input.GetKeyDown(KeyCode.R)))
+        if ((Main.GetComponent<Main>().groupsix == true))
         {
             flower6.SetActive(true);
 
         }
-        if ((Main.GetComponent<Main>().groupseven == true) || (Input.GetKeyDown(KeyCode.R)))
+        if ((Main.GetComponent<Main>().groupseven == true))
         {
             flower7.SetActive(true);
 
         }
-        if ((Main.GetComponent<Main>().groupeight == true) || (Input.GetKeyDown(KeyCode.R)))
+        if ((Main.GetComponent<Main>().groupeight == true))
         {
             flower8.SetActive(true);
 
         }
-        if ((Main.GetComponent<Main>().groupnine == true) || (Input.GetKeyDown(KeyCode.R)))
+        if ((Main.GetComponent<Main>().groupnine == true))
         {
             flower9.SetActive(true);
 
         }
-        if ((Main.GetComponent<Main>().groupten == true) || (Input.GetKeyDown(KeyCode.R)))
+        if ((Main.GetComponent<Main>().groupten == true))
         {
             flower10.SetActive(true);
 

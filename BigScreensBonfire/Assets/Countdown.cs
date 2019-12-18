@@ -15,9 +15,11 @@ public class Countdown : MonoBehaviour
     private bool nomoretext = false;
 
     public Text title;
+    public int timeTextLast = -6;
+
     void Start()
     {
-        countdown.text = ("Get ready for the game to start");
+        countdown.text = ("Wait for the countdown to enter the chatroom on your phone");
 
     }
     void Update()
@@ -33,7 +35,7 @@ public class Countdown : MonoBehaviour
             {
                 countdown.text = ("Type on your phone to find your group");
             }
-            if (timeLeft < -6)
+            if (timeLeft < timeTextLast)
             {
                 countdown.text = ("");
                 instructions.text = ("");
@@ -56,8 +58,10 @@ public class Countdown : MonoBehaviour
         if (showinstru == true)
         {
             title.text = "";
-            instructions.text = ("After gathering your group, sit around a flower.");
-            instructions2.text = ("After gathering your group, sit around a flower.");
+            //instructions.text = ("After gathering your group, sit around a flower.");
+            //instructions2.text = ("After gathering your group, sit around a flower.");
+            countdown.text = ("After gathering your group, sit around a flower.");
+          //  instructions2.text = ("After gathering your group, sit around a flower.");
         }
 
 
@@ -70,23 +74,24 @@ public class Countdown : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.C))
         {
             nomoretext = true;
-            instructions.text = ("");
-            instructions2.text = ("");
+            //instructions.text = ("");
+            //instructions2.text = ("");
+            //countdown.text = ("");
 
         }
         if (nomoretext)
         {
             instructions.text = ("");
             instructions2.text = ("");
+            countdown.text = ("");
         }
 
         if (changetext == true)
         {
             title.text = ("The End");
-            instructions.text = ("Feel free to take a petal but please leave the wooden pieces.");
-            instructions2.text = ("Feel free to take a petal but please leave the wooden pieces.");
-            //instructions.text = ("Discuss the questions, and send your own favorite answers from the group to make your flower grow stronger");
-            //instructions2.text = ("Discuss the questions, and send your own favorite answers from the group to make your flower grow stronger");
+            //instructions.text = ("Feel free to take a flower petal but please leave the wooden pieces");
+            //instructions2.text = ("Feel free to take a flower petal but please leave the wooden pieces");
+            countdown.text = ("Feel free to take a flower petal but please leave the wooden pieces");
         }
 
 

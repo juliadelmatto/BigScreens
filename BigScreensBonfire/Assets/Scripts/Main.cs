@@ -196,7 +196,7 @@ public class Main : MonoBehaviour
     void Update()
     {
 
-        if (Input.GetKeyDown(KeyCode.H))
+        if (Input.GetKeyDown(KeyCode.L))
         {
             GameStart();
         }
