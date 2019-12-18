@@ -83,6 +83,8 @@ public class Countdown : MonoBehaviour
         if (changetext == true)
         {
             title.text = ("The End");
+            instructions.text = ("Feel free to take a petal but please leave the wooden pieces.");
+            instructions2.text = ("Feel free to take a petal but please leave the wooden pieces.");
             //instructions.text = ("Discuss the questions, and send your own favorite answers from the group to make your flower grow stronger");
             //instructions2.text = ("Discuss the questions, and send your own favorite answers from the group to make your flower grow stronger");
         }
