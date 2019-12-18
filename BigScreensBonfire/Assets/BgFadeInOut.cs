@@ -10,16 +10,22 @@ public class BgFadeInOut : MonoBehaviour
     public Image main;
     public Image black;
 
+    public GameObject fire;
+
     private bool fade1 = false;
     private bool fade2 = false;
     private bool fademain = false;
     private bool end = false;
+
+
 
     void Start()
     {
         bgimage1 = GetComponent<Image>();
         bgimage1.color = Color.white; //or whatever color
 
+        //ParticleSystem.Particle[] particles = new ParticleSystem.Particle[particleSystem.particleCount];
+        //ParticleSystem.GetParticles(particles);
 
         //Color c = image.color;
         //c.a = 0.5f;

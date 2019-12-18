@@ -13,7 +13,8 @@ public class Countdown : MonoBehaviour
     private bool changetext = false;
     private bool starttimer=false;
     private bool nomoretext = false;
-
+    public GameObject fire;
+    public Text ournames;
     public Text title;
     public int timeTextLast = -6;
 
@@ -41,6 +42,7 @@ public class Countdown : MonoBehaviour
                 instructions.text = ("");
                 instructions2.text = ("");
                 title.text = ("");
+                ournames.text =  ("");
             }
         }
         if (Input.GetKeyDown(KeyCode.H)) {
@@ -92,6 +94,7 @@ public class Countdown : MonoBehaviour
             //instructions.text = ("Feel free to take a flower petal but please leave the wooden pieces");
             //instructions2.text = ("Feel free to take a flower petal but please leave the wooden pieces");
             countdown.text = ("Feel free to take a flower petal but please leave the wooden pieces");
+            fire.SetActive(false);
         }
 
 
