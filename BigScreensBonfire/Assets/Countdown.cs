@@ -58,8 +58,8 @@ public class Countdown : MonoBehaviour
         if (showinstru == true)
         {
             title.text = "";
-            instructions.text = ("After gathering your group, stand by a flower. Take turns answering questions and adding petals");
-            instructions2.text = ("After gathering your group, stand by a flower. Take turns answering questions and adding petals");
+            instructions.text = ("After gathering your group, sit around a flower.");
+            instructions2.text = ("After gathering your group, sit around a flower.");
         }
 
 
@@ -85,8 +85,8 @@ public class Countdown : MonoBehaviour
         if (changetext == true)
         {
             title.text = ("The End");
-            //instructions.text = ("Discuss the questions, and send your own favorite answers from the group to make your flower grow stronger");
-            //instructions2.text = ("Discuss the questions, and send your own favorite answers from the group to make your flower grow stronger");
+            instructions.text = ("Feel free to take a flower petal but please leave the wooden pieces");
+            instructions2.text = ("Feel free to take a flower petal but please leave the wooden pieces");
         }
 
 

@@ -7,15 +7,21 @@ public class flowercontrol : MonoBehaviour
 
     public GameObject Main;
     public GameObject flower1;
-    public Animation f1;
+   // public Animation f1;
     public GameObject flower2;
     public GameObject flower3;
     public GameObject flower4;
+    public GameObject flower5;
+    public GameObject flower6;
+    public GameObject flower7;
+    public GameObject flower8;
+    public GameObject flower9;
+    public GameObject flower10;
 
     public Vector2 destination;
     public float speedoftransition;
 
-    private bool flower1move = false;
+    private bool flowersmove = false;
     private bool flower2move = false;
     private bool flower3move = false;
     private bool flower4move = false;
@@ -28,6 +34,13 @@ public class flowercontrol : MonoBehaviour
         flower2.SetActive(false);
         flower3.SetActive(false); 
         flower4.SetActive(false);
+        flower5.SetActive(false);
+        flower6.SetActive(false);
+        flower7.SetActive(false);
+        flower8.SetActive(false);
+        flower9.SetActive(false);
+        flower10.SetActive(false);
+
     }
 
     // Update is called once per frame
@@ -49,6 +62,36 @@ public class flowercontrol : MonoBehaviour
         if ((Main.GetComponent<Main>().groupfour == true) || (Input.GetKeyDown(KeyCode.R)))
         {
             flower4.SetActive(true);
+
+        }
+        if ((Main.GetComponent<Main>().groupfive == true) || (Input.GetKeyDown(KeyCode.R)))
+        {
+            flower5.SetActive(true);
+
+        }
+        if ((Main.GetComponent<Main>().groupsix == true) || (Input.GetKeyDown(KeyCode.R)))
+        {
+            flower6.SetActive(true);
+
+        }
+        if ((Main.GetComponent<Main>().groupseven == true) || (Input.GetKeyDown(KeyCode.R)))
+        {
+            flower7.SetActive(true);
+
+        }
+        if ((Main.GetComponent<Main>().groupeight == true) || (Input.GetKeyDown(KeyCode.R)))
+        {
+            flower8.SetActive(true);
+
+        }
+        if ((Main.GetComponent<Main>().groupnine == true) || (Input.GetKeyDown(KeyCode.R)))
+        {
+            flower9.SetActive(true);
+
+        }
+        if ((Main.GetComponent<Main>().groupten == true) || (Input.GetKeyDown(KeyCode.R)))
+        {
+            flower10.SetActive(true);
 
         }
 
@@ -79,43 +122,52 @@ public class flowercontrol : MonoBehaviour
         //ASDF corresponds to making each flower lerp to the center of the screen
         if (Input.GetKeyDown(KeyCode.A))
         {
-            flower1move = true;
+            flowersmove = true;
         }
 
-        if (flower1move == true)
+        if (flowersmove == true)
         {
             lerpFlower(destination,flower1);
-        }
-        ////
-        if (Input.GetKeyDown(KeyCode.S))
-        {
-            flower2move = true;
-        }
-
-        if (flower2move == true)
-        {
             lerpFlower(destination, flower2);
+            lerpFlower(destination, flower3);
+            lerpFlower(destination, flower4);
+            lerpFlower(destination, flower5);
+            lerpFlower(destination, flower6);
+            lerpFlower(destination, flower7);
+            lerpFlower(destination, flower8);
+            lerpFlower(destination, flower9);
+            lerpFlower(destination, flower10);
         }
         ////
-        if (Input.GetKeyDown(KeyCode.D))
-        {
-            flower3move = true;
-        }
+        //if (Input.GetKeyDown(KeyCode.S))
+        //{
+        //    flower2move = true;
+        //}
 
-        if (flower3move == true)
-        {
-            lerpFlower(destination, flower3);
-        }
-        ///
-        if (Input.GetKeyDown(KeyCode.F))
-        {
-            flower4move = true;
-        }
+        //if (flower2move == true)
+        //{
+        //    lerpFlower(destination, flower2);
+        //}
+        //////
+        //if (Input.GetKeyDown(KeyCode.D))
+        //{
+        //    flower3move = true;
+        //}
 
-        if (flower4move == true)
-        {
-            lerpFlower(destination, flower4);
-        }
+        //if (flower3move == true)
+        //{
+        //    lerpFlower(destination, flower3);
+        //}
+        /////
+        //if (Input.GetKeyDown(KeyCode.F))
+        //{
+        //    flower4move = true;
+        //}
+
+        //if (flower4move == true)
+        //{
+        //    lerpFlower(destination, flower4);
+        //}
     }
 
    public void lerpFlower(Vector2 dest, GameObject flower)

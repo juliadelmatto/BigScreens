@@ -29,6 +29,13 @@ public class Main : MonoBehaviour
     public bool grouptwo = false;
     public bool groupthree = false;
     public bool groupfour = false;
+    public bool groupfive = false;
+    public bool groupsix = false;
+    public bool groupseven = false;
+    public bool groupeight = false;
+    public bool groupnine = false;
+    public bool groupten = false;
+
 
     //GameObject t = new GameObject("textboxes");
 
@@ -202,22 +209,56 @@ public class Main : MonoBehaviour
         {
             var text = _texts.Dequeue();
             Debug.Log(text);
-            if (text == "aa12")
+            if ((text == "aa12") || (text == "Aa12"))
             {
                 groupone = true;
             }
-            if (text == "bc22")
+            if ((text == "bb22") || (text == "Bb22"))
             {
                 grouptwo = true;
             }
-            if (text == "cc33")
+            if ((text == "cc33")|| (text == "Cc33"))
             {
                 groupthree = true;
             }
-            if (text == "nn23")
+            if ((text == "nn23")|| (text == "Nn23"))
             {
                 groupfour = true;
             }
+            if ((text == "zz43")|| (text == "Zz43"))
+            {
+                groupfive = true;
+            }
+            if ((text == "oo11")|| (text == "Oo11"))
+            {
+                groupsix = true;
+            }
+            if ((text == "ee99")|| (text == "Ee99"))
+            {
+                groupseven = true;
+            }
+            if ((text == "yy24") || (text == "Yy24"))
+            {
+                groupeight = true;
+            }
+            if ((text == "ll22") || (text == "Ll22"))
+            {
+                groupnine = true;
+            }
+            if ((text == "ss55") || (text == "Ss55"))
+            {
+                groupten = true;
+            }
+
+
+
+
+
+
+
+
+
+
             //text = "sdf";
             if (count == 0)
             {
