@@ -674,6 +674,7 @@ MonoBehaviour:
   instructions: {fileID: 241893688}
   instructions2: {fileID: 965380714}
   title: {fileID: 0}
+  timeTextLast: -6
 --- !u!1 &260917217
 GameObject:
   m_ObjectHideFlags: 0
@@ -5810,7 +5811,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2084, y: -404.00003}
+  m_AnchoredPosition: {x: 2084, y: -412}
   m_SizeDelta: {x: 1962, y: 191.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &352768964
@@ -5927,7 +5928,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2456, y: -381}
+  m_AnchoredPosition: {x: 2456, y: -414}
   m_SizeDelta: {x: 1962, y: 191.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &423051008
@@ -6267,6 +6268,7 @@ MonoBehaviour:
   instructions: {fileID: 1961711787}
   instructions2: {fileID: 965380714}
   title: {fileID: 675998928}
+  timeTextLast: -6
 --- !u!114 &522694380
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11528,6 +11530,7 @@ MonoBehaviour:
   instructions: {fileID: 1961711787}
   instructions2: {fileID: 757875446}
   title: {fileID: 675998928}
+  timeTextLast: -6
 --- !u!114 &675626903
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16701,7 +16704,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 20.975, y: -312}
+  m_AnchoredPosition: {x: 20.975, y: -411}
   m_SizeDelta: {x: 1962, y: 191.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &777496894
@@ -22799,7 +22802,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3396, y: -404.00003}
+  m_AnchoredPosition: {x: -3396, y: -412}
   m_SizeDelta: {x: 1962, y: 191.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1400577150
@@ -23262,6 +23265,7 @@ MonoBehaviour:
   instructions: {fileID: 757875446}
   instructions2: {fileID: 965380714}
   title: {fileID: 675998928}
+  timeTextLast: -6
 --- !u!114 &1666366060
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23538,7 +23542,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1424, y: -404.00003}
+  m_AnchoredPosition: {x: -1424, y: -412}
   m_SizeDelta: {x: 1962, y: 191.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1855593856
