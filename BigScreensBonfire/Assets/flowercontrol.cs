@@ -176,7 +176,7 @@ public class flowercontrol : MonoBehaviour
             new Vector2(dest.x, dest.y),
             speedoftransition);
 
-        if (Vector2.Distance(flower.transform.position, dest) < 0.05)
+        if (Vector2.Distance(flower.transform.position, dest) < 0.1)
         {
 
             flower.transform.position = new Vector3(dest.x, dest.y, -10);
