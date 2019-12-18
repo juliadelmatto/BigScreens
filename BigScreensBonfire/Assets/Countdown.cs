@@ -56,8 +56,8 @@ public class Countdown : MonoBehaviour
         if (showinstru == true)
         {
             title.text = "";
-            instructions.text = ("After gathering your group, stand by a flower. Take turns answering questions and adding petals");
-            instructions2.text = ("After gathering your group, stand by a flower. Take turns answering questions and adding petals");
+            instructions.text = ("After gathering your group, sit around a flower.");
+            instructions2.text = ("After gathering your group, sit around a flower.");
         }
 
 
