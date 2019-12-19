@@ -33,7 +33,8 @@ public class BgFadeInOut : MonoBehaviour
     }
     private void Update()
     {
-        if (fade1)
+        
+            if (fade1)
         {
             Color c = bgimage1.color;
             c.a -= 0.001f;
