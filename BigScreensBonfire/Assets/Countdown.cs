@@ -66,11 +66,13 @@ public class Countdown : MonoBehaviour
         if (showinstru == true)
         {
             title.text = "";
-            ournames.text = ("");
+
             //instructions.text = ("After gathering your group, sit around a flower.");
             //instructions2.text = ("After gathering your group, sit around a flower.");
+            ournames.text = ("");
             countdown.text = ("After gathering your group, sit around an empty flower station.");
-          //  instructions2.text = ("After gathering your group, sit around a flower.");
+          instructions2.text = ("");
+            instructions.text = ("");
         }
 
 
@@ -100,6 +102,7 @@ public class Countdown : MonoBehaviour
         if (changetext == true)
         {
             title.text = ("The End");
+            ournames.text = ("by Jenny Lin, Julia Del Matto, Shivani Prasad, Topher Blair");
             //instructions.text = ("Feel free to take a flower petal but please leave the wooden pieces");
             //instructions2.text = ("Feel free to take a flower petal but please leave the wooden pieces");
             countdown.text = ("Feel free to take a flower petal but please leave the wooden pieces");
