@@ -66,9 +66,10 @@ public class Countdown : MonoBehaviour
         if (showinstru == true)
         {
             title.text = "";
+            ournames.text = ("");
             //instructions.text = ("After gathering your group, sit around a flower.");
             //instructions2.text = ("After gathering your group, sit around a flower.");
-            countdown.text = ("After gathering your group, sit around a flower.");
+            countdown.text = ("After gathering your group, sit around an empty flower station.");
           //  instructions2.text = ("After gathering your group, sit around a flower.");
         }
 
@@ -82,6 +83,7 @@ public class Countdown : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.C))
         {
             nomoretext = true;
+            ournames.text = ("");
             //instructions.text = ("");
             //instructions2.text = ("");
             //countdown.text = ("");
@@ -92,6 +94,7 @@ public class Countdown : MonoBehaviour
             instructions.text = ("");
             instructions2.text = ("");
             countdown.text = ("");
+            ournames.text = ("");
         }
 
         if (changetext == true)
