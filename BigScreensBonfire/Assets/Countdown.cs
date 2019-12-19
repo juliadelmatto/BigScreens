@@ -25,6 +25,12 @@ public class Countdown : MonoBehaviour
     }
     void Update()
     {
+
+        if (Input.GetKeyDown(KeyCode.G))
+        {
+            fire.SetActive(true);
+        }
+
         if (starttimer == true)
         {
             
