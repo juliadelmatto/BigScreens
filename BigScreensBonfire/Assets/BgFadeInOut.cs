@@ -77,6 +77,7 @@ public class BgFadeInOut : MonoBehaviour
         if (end)
         {
             Color c4 = black.color;
+            
             c4.a += 0.001f;
 
             black.color = c4;
