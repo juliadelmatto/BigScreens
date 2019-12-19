@@ -195,8 +195,18 @@ public class Main : MonoBehaviour
 
     void Update()
     {
-
-        if (Input.GetKeyDown(KeyCode.L))
+        if (Input.GetKeyDown(KeyCode.M))
+        {
+            input.text = ("");
+            input2.text = ("");
+            input3.text = ("");
+            input4.text = ("");
+            input5.text = ("");
+            input6.text = ("");
+            input7.text = ("");
+           
+        }
+            if (Input.GetKeyDown(KeyCode.L))
         {
             GameStart();
         }
