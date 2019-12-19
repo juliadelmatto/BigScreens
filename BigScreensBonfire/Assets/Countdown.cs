@@ -30,6 +30,11 @@ public class Countdown : MonoBehaviour
         {
             fire.SetActive(true);
         }
+        if (Input.GetKeyDown(KeyCode.N))
+        {
+            fire.SetActive(false);
+        }
+
 
         if (starttimer == true)
         {
