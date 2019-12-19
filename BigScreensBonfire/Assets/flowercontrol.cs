@@ -49,49 +49,59 @@ public class flowercontrol : MonoBehaviour
         //QWER corresponds to each flower, makes it appear
         if((Main.GetComponent<Main>().groupone == true)){
             flower1.SetActive(true);
-           
+            flower1.transform.Rotate(0f, 0.0f, 0.1f, Space.Self);
+
         }
         if ((Main.GetComponent<Main>().grouptwo == true))
         {
             flower2.SetActive(true);
+            flower2.transform.Rotate(0f, 0.0f, 0.1f, Space.Self);
         }
         if((Main.GetComponent<Main>().groupthree == true))
         {
             flower3.SetActive(true);
+            flower3.transform.Rotate(0f, 0.0f, 0.1f, Space.Self);
         }
         if ((Main.GetComponent<Main>().groupfour == true))
         {
             flower4.SetActive(true);
+            flower4.transform.Rotate(0f, 0.0f, 0.1f, Space.Self);
 
         }
         if ((Main.GetComponent<Main>().groupfive == true))
         {
             flower5.SetActive(true);
+            flower5.transform.Rotate(0f, 0.0f, 0.1f, Space.Self);
 
         }
         if ((Main.GetComponent<Main>().groupsix == true))
         {
             flower6.SetActive(true);
+            flower6.transform.Rotate(0f, 0.0f, 0.1f, Space.Self);
 
         }
         if ((Main.GetComponent<Main>().groupseven == true))
         {
             flower7.SetActive(true);
+            flower7.transform.Rotate(0f, 0.0f, 0.1f, Space.Self);
 
         }
         if ((Main.GetComponent<Main>().groupeight == true))
         {
             flower8.SetActive(true);
+            flower8.transform.Rotate(0f, 0.0f, 0.1f, Space.Self);
 
         }
         if ((Main.GetComponent<Main>().groupnine == true))
         {
             flower9.SetActive(true);
+            flower9.transform.Rotate(0f, 0.0f, 0.1f, Space.Self);
 
         }
         if ((Main.GetComponent<Main>().groupten == true))
         {
             flower10.SetActive(true);
+            flower10.transform.Rotate(0f, 0.0f, 0.1f, Space.Self);
 
         }
 
