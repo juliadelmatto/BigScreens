@@ -239,7 +239,7 @@ public class Main : MonoBehaviour
             {
                 groupfive = true;
             }
-            if ((text == "tt11")|| (text == "Tt11"))
+            if ((text == "gg22")|| (text == "Gg22"))
             {
                 groupsix = true;
             }
