@@ -5499,7 +5499,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: by Jenny Lin, Julia Del Matto, Shivani Prasad, Topher Blair
+  m_Text: by Julia Del Matto, Jenny Lin, Shivani Prasad, Topher Blair
 --- !u!222 &261820609
 CanvasRenderer:
   m_ObjectHideFlags: 0
