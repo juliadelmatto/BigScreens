@@ -251,7 +251,7 @@ public class Main : MonoBehaviour
             {
                 groupeight = true;
             }
-            if ((text == "ll22") || (text == "Ll22"))
+            if ((text == "gg22") || (text == "Gg22"))
             {
                 groupnine = true;
             }
