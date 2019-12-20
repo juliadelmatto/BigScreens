@@ -27878,7 +27878,7 @@ PrefabInstance:
     - target: {fileID: 4438256420289109941, guid: 59eb7169b989840d4acaab027563861c,
         type: 3}
       propertyPath: PlayersPerRoom
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 59eb7169b989840d4acaab027563861c, type: 3}
