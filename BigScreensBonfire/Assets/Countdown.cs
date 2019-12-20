@@ -107,7 +107,7 @@ public class Countdown : MonoBehaviour
         if (changetext == true)
         {
             title.text = ("The End");
-            ournames.text = ("by Jenny Lin, Julia Del Matto, Shivani Prasad, Topher Blair");
+            ournames.text = ("by Julia Del Matto, Jenny Lin, Shivani Prasad, Topher Blair");
             //instructions.text = ("Feel free to take a flower petal but please leave the wooden pieces");
             //instructions2.text = ("Feel free to take a flower petal but please leave the wooden pieces");
             countdown.text = ("Feel free to take a flower petal but please leave the wooden pieces");
